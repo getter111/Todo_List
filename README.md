@@ -1,7 +1,7 @@
-# Top-G ToDo-List
+# Top-G ToDo-List  
 
-Functionalities include:
+## Functionalities include  
 
--add projects/tasks  
--clear/delete finished projects/tasks  
--Todo-List data saved to localStorage  
+* add projects/tasks  
+* clear/delete finished projects/tasks  
+* Todo-List data saved to localStorage  
