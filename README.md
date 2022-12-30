@@ -2,7 +2,7 @@
 
 Functionalities include:
 
--add projects/tasks
--rename projects/tasks
--being able to clear/delete finished tasks
--Todo-List data saved to localStorage
+-add projects/tasks  
+-rename projects/tasks  
+-being able to clear/delete finished tasks  
+-Todo-List data saved to localStorage  
