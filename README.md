@@ -1,6 +1,6 @@
 # Top-G ToDo-List
 
-Functionalities
+Functionalities include:
 
 -add projects/tasks
 -rename projects/tasks
