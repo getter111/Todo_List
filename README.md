@@ -1,4 +1,4 @@
-# Top-G ToDo-List  
+# ToDo-List  
 
 Github pages: https://getter111.github.io/top-g/  
 
